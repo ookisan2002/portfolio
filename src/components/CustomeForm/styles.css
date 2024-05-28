@@ -75,6 +75,7 @@
     border: none;
     font-size: 1.6rem;
     font-weight: 700;
+    min-width: 130px;
     border-radius: 5px;
     padding: 18px 36px;
     width: 30%;
