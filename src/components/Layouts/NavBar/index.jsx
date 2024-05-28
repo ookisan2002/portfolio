@@ -15,7 +15,7 @@ const NavBar = () => {
         <div className="flex items-center h-10">
           <img
             className="h-full rounded-full"
-            src="src/assets/logo.jpg"
+            src="https://i.pinimg.com/564x/2b/31/f2/2b31f25a2616c2dff313afe4adcf149b.jpg"
             alt=""
           />
           <a href="#" className="cursor-pointer hover:text-blue-400 font-bold text-black ml-3">
